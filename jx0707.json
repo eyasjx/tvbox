@@ -1,27 +1,27 @@
 {
   "urls": [
     {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0821.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0821.json",
       "name": "高天流云 No.1"
     },
     {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0825.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0825.json",
       "name": "高天流云 PG"
     },
     {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0826.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0826.json",
       "name": "高天流云 FTY"
     },
     {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0827.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/0827.json",
       "name": "高天流云 FM"
     },
     {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/js.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/js.json",
       "name": "高天流云 JS"
     },
     {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/XYQ.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/eyasjx/tvbox/refs/heads/master/XYQ.json",
       "name": "高天流云 XYQ"
     }
   ]
